@@ -17,4 +17,4 @@
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 .gameContainer{color:rgba(196, 196, 196,0.6);}
-.body{background-color:#0E000A;padding:0; margin:0;overflow-y: hidden;}
+.body,.html{background-color:rgb(196, 196, 196);padding:0; margin:0;overflow-y: hidden;}
